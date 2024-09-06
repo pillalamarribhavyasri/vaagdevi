@@ -1,0 +1,13 @@
+body{
+    background-color: darkslateblue;
+}
+h1{
+   color: greenyellow;
+   font:3px;
+   text-transform: capitalize;
+   text-align: center;
+   text-indent: 100px; 
+}
+h2{
+    color:chocolate
+}
